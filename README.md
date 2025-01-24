@@ -1,8 +1,6 @@
-# React + Vite
+# React dragndrop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Component to handle dragging from desktop to drop location, handing off path logic to another component
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+William Hagan
+23Jan2025
